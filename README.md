@@ -10,7 +10,7 @@ Multi-Page Navigation: Home, About, and additional sections are efficiently mana
 
 Technologies Used: HTML, CSS, JavaScript.
 
-Front page of Website:-
+Front pages of Website:-
 
 ![sa](https://github.com/user-attachments/assets/deed41b2-b503-4045-8a62-82e140353f17)
 
@@ -18,5 +18,5 @@ Front page of Website:-
 
 ![sac](https://github.com/user-attachments/assets/93a3cfa0-b694-4c46-85a9-bda99a451b67)
 
-Author - Kanaram
+Author - Nikhil Kumar
 
